@@ -1,12 +1,4 @@
-## Hi there 👋
+[How to set up WISE on your production server](https://github.com/WISE-Community/.github/wiki/How-to-set-up-WISE-on-your-production-server) (this should be used if you are a server admin that wants to set up a server for people to use)
 
-<!--
+[How to set up WISE for local development](https://github.com/WISE-Community/WISE-Docker-Dev) (this should be used if you are a software developer that wants to change the code)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
